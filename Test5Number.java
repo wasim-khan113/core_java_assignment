@@ -120,7 +120,6 @@ public class Test5Number {
      * int n2 = sc.nextInt();
      * System.out.print("Armstrong numbers between "+n1+" - "+n2+" = ");
      * for (int i = n1; i < n2; i++) {
-     * 
      * int r, sum = 0;
      * int temp = i;
      * while (temp > 0) {
@@ -143,6 +142,7 @@ public class Test5Number {
      * }
      */
 
+     
     // 38. Java Program to check if a number is Positive or Negative
 
     /*
@@ -171,10 +171,10 @@ public class Test5Number {
      * x = x / 10;
      * }
      * if (sum == temp) {
-     * System.out.println(temp + " is palindrom");
+     * System.out.println(temp + " is Armstrong");
      * 
      * } else {
-     * System.out.println(temp + " is not palindrom");
+     * System.out.println(temp + " is not Armstrong");
      * }
      */
 

@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Test7Geometry {
     public static void main(String[] args) {
 
@@ -5,6 +7,12 @@ public class Test7Geometry {
         // 55. Java Program to Get IP Address
         // 56. Java Program to get Input From User
 
+        /* Scanner sc=new Scanner(System.in);
+        System.out.println("Enter any number ");
+        int n=sc.nextInt();
+        System.out.println(n);
+         */
+        
         // 57. Java Program to Calculate Area of Rectangle
 
         float length = 3f, breadth = 8f, area;

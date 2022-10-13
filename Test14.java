@@ -104,6 +104,8 @@ if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='A'||ch=='E'||ch=='I'||ch=='O'||ch=='
      */
 
 // 13. Java Program to Check Whether a Character is Alphabet or Not
+
+
 // 14. Java Program to Calculate the Sum of Natural Numbers
 
  /*
